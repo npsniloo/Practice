@@ -1,0 +1,8 @@
+E:\Projects\DotNetCore\Shahriar\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp3.0\ArmanBroker.csprojAssemblyReference.cache
+E:\Projects\DotNetCore\Shahriar\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp3.0\ArmanBroker.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\DotNetCore\Shahriar\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp3.0\ArmanBroker.AssemblyInfoInputs.cache
+E:\Projects\DotNetCore\Shahriar\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp3.0\ArmanBroker.AssemblyInfo.cs
+E:\Projects\DotNetCore\Shahriar\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp3.0\ArmanBroker.TagHelpers.input.cache
+E:\Projects\DotNetCore\Shahriar\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp3.0\ArmanBroker.TagHelpers.output.cache
+E:\Projects\DotNetCore\Shahriar\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp3.0\ArmanBroker.dll
+E:\Projects\DotNetCore\Shahriar\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp3.0\ArmanBroker.pdb

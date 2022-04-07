@@ -1,0 +1,110 @@
+C:\Users\Administrator\Downloads\Shahriar\ArmanBroker\ArmanBroker\bin\Debug\netcoreapp2.1\ArmanBroker.deps.json
+C:\Users\Administrator\Downloads\Shahriar\ArmanBroker\ArmanBroker\bin\Debug\netcoreapp2.1\ArmanBroker.runtimeconfig.json
+C:\Users\Administrator\Downloads\Shahriar\ArmanBroker\ArmanBroker\bin\Debug\netcoreapp2.1\ArmanBroker.runtimeconfig.dev.json
+C:\Users\Administrator\Downloads\Shahriar\ArmanBroker\ArmanBroker\bin\Debug\netcoreapp2.1\ArmanBroker.dll
+C:\Users\Administrator\Downloads\Shahriar\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Shahriar\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.RazorAssemblyInfo.cache
+C:\Users\Administrator\Downloads\Shahriar\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.RazorAssemblyInfo.cs
+C:\Users\Administrator\Downloads\Shahriar\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\Shahriar\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\Shahriar\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Downloads\Shahriar\ArmanBroker\ArmanBroker\bin\Debug\netcoreapp2.1\ArmanBroker.pdb
+C:\Users\Administrator\Downloads\Shahriar\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.dll
+C:\Users\Administrator\Downloads\Shahriar\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.pdb
+C:\Users\Administrator\Downloads\Shahriar\ArmanBroker\ArmanBroker\bin\Debug\netcoreapp2.1\ArmanBroker.Views.dll
+C:\Users\Administrator\Downloads\Shahriar\ArmanBroker\ArmanBroker\bin\Debug\netcoreapp2.1\ArmanBroker.Views.pdb
+C:\Users\Administrator\Downloads\Shahriar\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.TagHelpers.input.cache
+C:\Users\Administrator\Downloads\Shahriar\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.TagHelpers.output.cache
+C:\Users\Administrator\Downloads\Shahriar\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.RazorCoreGenerate.cache
+C:\Users\Administrator\Downloads\Shahriar\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\Razor\Views\Default\Index.g.cshtml.cs
+C:\Users\Administrator\Downloads\Shahriar\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.RazorTargetAssemblyInfo.cs
+C:\Users\Administrator\Downloads\Shahriar\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.Views.pdb
+C:\Users\Administrator\Downloads\Shahriar\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.csproj.CopyComplete
+C:\Users\Administrator\Downloads\Shahriar\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.csprojAssemblyReference.cache
+E:\Projects\DotNetCore\Shahriar\ArmanBroker\ArmanBroker\bin\Debug\netcoreapp2.1\web.config
+E:\Projects\DotNetCore\Shahriar\ArmanBroker\ArmanBroker\bin\Debug\netcoreapp2.1\Connected Services\ClubService\ConnectedService.json
+E:\Projects\DotNetCore\Shahriar\ArmanBroker\ArmanBroker\bin\Debug\netcoreapp2.1\Connected Services\DefaultService\ConnectedService.json
+E:\Projects\DotNetCore\Shahriar\ArmanBroker\ArmanBroker\bin\Debug\netcoreapp2.1\Connected Services\PlusService\ConnectedService.json
+E:\Projects\DotNetCore\Shahriar\ArmanBroker\ArmanBroker\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\Projects\DotNetCore\Shahriar\ArmanBroker\ArmanBroker\bin\Debug\netcoreapp2.1\ArmanBroker.deps.json
+E:\Projects\DotNetCore\Shahriar\ArmanBroker\ArmanBroker\bin\Debug\netcoreapp2.1\ArmanBroker.runtimeconfig.json
+E:\Projects\DotNetCore\Shahriar\ArmanBroker\ArmanBroker\bin\Debug\netcoreapp2.1\ArmanBroker.runtimeconfig.dev.json
+E:\Projects\DotNetCore\Shahriar\ArmanBroker\ArmanBroker\bin\Debug\netcoreapp2.1\ArmanBroker.dll
+E:\Projects\DotNetCore\Shahriar\ArmanBroker\ArmanBroker\bin\Debug\netcoreapp2.1\ArmanBroker.pdb
+E:\Projects\DotNetCore\Shahriar\ArmanBroker\ArmanBroker\bin\Debug\netcoreapp2.1\ArmanBroker.Views.dll
+E:\Projects\DotNetCore\Shahriar\ArmanBroker\ArmanBroker\bin\Debug\netcoreapp2.1\ArmanBroker.Views.pdb
+E:\Projects\DotNetCore\Shahriar\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.csprojAssemblyReference.cache
+E:\Projects\DotNetCore\Shahriar\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.RazorAssemblyInfo.cache
+E:\Projects\DotNetCore\Shahriar\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.RazorAssemblyInfo.cs
+E:\Projects\DotNetCore\Shahriar\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.AssemblyInfoInputs.cache
+E:\Projects\DotNetCore\Shahriar\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.AssemblyInfo.cs
+E:\Projects\DotNetCore\Shahriar\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.TagHelpers.input.cache
+E:\Projects\DotNetCore\Shahriar\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.TagHelpers.output.cache
+E:\Projects\DotNetCore\Shahriar\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.RazorCoreGenerate.cache
+E:\Projects\DotNetCore\Shahriar\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\Razor\Views\Default\Index.cshtml.g.cs
+E:\Projects\DotNetCore\Shahriar\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.RazorTargetAssemblyInfo.cache
+E:\Projects\DotNetCore\Shahriar\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.RazorTargetAssemblyInfo.cs
+E:\Projects\DotNetCore\Shahriar\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.Views.pdb
+E:\Projects\DotNetCore\Shahriar\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.dll
+E:\Projects\DotNetCore\Shahriar\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.pdb
+E:\Projects\DotNetCore\Shahriar\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.csproj.CopyComplete
+E:\Projects\DotNetCore\Shahriar\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.csproj.CoreCompileInputs.cache
+E:\Projects\DotNetCore\Shahriar\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.genruntimeconfig.cache
+E:\ccccc\ArmanBroker\ArmanBroker\bin\Debug\netcoreapp2.1\web.config
+E:\ccccc\ArmanBroker\ArmanBroker\bin\Debug\netcoreapp2.1\Connected Services\ClubService\ConnectedService.json
+E:\ccccc\ArmanBroker\ArmanBroker\bin\Debug\netcoreapp2.1\Connected Services\DefaultService\ConnectedService.json
+E:\ccccc\ArmanBroker\ArmanBroker\bin\Debug\netcoreapp2.1\Connected Services\PlusService\ConnectedService.json
+E:\ccccc\ArmanBroker\ArmanBroker\bin\Debug\netcoreapp2.1\ArmanBroker.deps.json
+E:\ccccc\ArmanBroker\ArmanBroker\bin\Debug\netcoreapp2.1\ArmanBroker.runtimeconfig.json
+E:\ccccc\ArmanBroker\ArmanBroker\bin\Debug\netcoreapp2.1\ArmanBroker.runtimeconfig.dev.json
+E:\ccccc\ArmanBroker\ArmanBroker\bin\Debug\netcoreapp2.1\ArmanBroker.dll
+E:\ccccc\ArmanBroker\ArmanBroker\bin\Debug\netcoreapp2.1\ArmanBroker.pdb
+E:\ccccc\ArmanBroker\ArmanBroker\bin\Debug\netcoreapp2.1\ArmanBroker.Views.dll
+E:\ccccc\ArmanBroker\ArmanBroker\bin\Debug\netcoreapp2.1\ArmanBroker.Views.pdb
+E:\ccccc\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.csprojAssemblyReference.cache
+E:\ccccc\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.AssemblyInfoInputs.cache
+E:\ccccc\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.AssemblyInfo.cs
+E:\ccccc\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.csproj.CoreCompileInputs.cache
+E:\ccccc\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.RazorAssemblyInfo.cache
+E:\ccccc\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.RazorAssemblyInfo.cs
+E:\ccccc\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.TagHelpers.input.cache
+E:\ccccc\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.TagHelpers.output.cache
+E:\ccccc\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.RazorCoreGenerate.cache
+E:\ccccc\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\Razor\Views\Default\Index.cshtml.g.cs
+E:\ccccc\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.RazorTargetAssemblyInfo.cache
+E:\ccccc\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.RazorTargetAssemblyInfo.cs
+E:\ccccc\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.Views.pdb
+E:\ccccc\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.dll
+E:\ccccc\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.pdb
+E:\ccccc\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.genruntimeconfig.cache
+E:\ccccc\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.csproj.CopyComplete
+E:\Projects\ArmanBroker\ArmanBroker\bin\Debug\netcoreapp2.1\web.config
+E:\Projects\ArmanBroker\ArmanBroker\bin\Debug\netcoreapp2.1\Connected Services\ClubService\ConnectedService.json
+E:\Projects\ArmanBroker\ArmanBroker\bin\Debug\netcoreapp2.1\Connected Services\DefaultService\ConnectedService.json
+E:\Projects\ArmanBroker\ArmanBroker\bin\Debug\netcoreapp2.1\Connected Services\PlusService\ConnectedService.json
+E:\Projects\ArmanBroker\ArmanBroker\bin\Debug\netcoreapp2.1\ArmanBroker.deps.json
+E:\Projects\ArmanBroker\ArmanBroker\bin\Debug\netcoreapp2.1\ArmanBroker.runtimeconfig.json
+E:\Projects\ArmanBroker\ArmanBroker\bin\Debug\netcoreapp2.1\ArmanBroker.runtimeconfig.dev.json
+E:\Projects\ArmanBroker\ArmanBroker\bin\Debug\netcoreapp2.1\ArmanBroker.dll
+E:\Projects\ArmanBroker\ArmanBroker\bin\Debug\netcoreapp2.1\ArmanBroker.pdb
+E:\Projects\ArmanBroker\ArmanBroker\bin\Debug\netcoreapp2.1\ArmanBroker.Views.dll
+E:\Projects\ArmanBroker\ArmanBroker\bin\Debug\netcoreapp2.1\ArmanBroker.Views.pdb
+E:\Projects\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.AssemblyInfoInputs.cache
+E:\Projects\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.AssemblyInfo.cs
+E:\Projects\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.csproj.CoreCompileInputs.cache
+E:\Projects\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.RazorAssemblyInfo.cache
+E:\Projects\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.RazorAssemblyInfo.cs
+E:\Projects\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.TagHelpers.input.cache
+E:\Projects\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.TagHelpers.output.cache
+E:\Projects\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.RazorCoreGenerate.cache
+E:\Projects\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\Razor\Views\Default\Index.cshtml.g.cs
+E:\Projects\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.RazorTargetAssemblyInfo.cache
+E:\Projects\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.RazorTargetAssemblyInfo.cs
+E:\Projects\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.Views.pdb
+E:\Projects\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.dll
+E:\Projects\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.pdb
+E:\Projects\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.genruntimeconfig.cache
+E:\Projects\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.csproj.CopyComplete
+E:\Projects\ArmanBroker\ArmanBroker\obj\Debug\netcoreapp2.1\ArmanBroker.csproj.AssemblyReference.cache
+E:\Projects\ArmanBroker\ArmanBroker\bin\Debug\netcoreapp2.1\Connected Services\ServiceReference1\ConnectedService.json
+E:\Projects\ArmanBroker\ArmanBroker\bin\Debug\netcoreapp2.1\Connected Services\ServiceReference2\ConnectedService.json
