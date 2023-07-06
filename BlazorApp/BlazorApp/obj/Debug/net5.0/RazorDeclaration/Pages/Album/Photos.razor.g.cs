@@ -4,7 +4,7 @@
 #pragma warning disable 0649
 #pragma warning disable 0169
 
-namespace BlazorApp.Pages
+namespace BlazorApp.Pages.Album
 {
     #line hidden
     using System;
@@ -82,21 +82,33 @@ using BlazorApp.Shared;
 #line default
 #line hidden
 #nullable disable
-#nullable restore
-#line 2 "E:\Projects\MyGit\BlazorApp\BlazorApp\Pages\Index.razor"
-using BlazorApp.Pages.Album;
-
-#line default
-#line hidden
-#nullable disable
-    [Microsoft.AspNetCore.Components.RouteAttribute("/")]
-    public partial class Index : Microsoft.AspNetCore.Components.ComponentBase
+    [Microsoft.AspNetCore.Components.RouteAttribute("/photos")]
+    public partial class Photos : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
         {
         }
         #pragma warning restore 1998
+#nullable restore
+#line 13 "E:\Projects\MyGit\BlazorApp\BlazorApp\Pages\Album\Photos.razor"
+       
+    private List<string> _photos;
+
+    protected override async Task OnInitializedAsync()
+    {
+        _photos = new List<string>
+{
+            "One photo",
+            "Two photos",
+            "Three photos",
+            "Four"
+        };
+    }
+
+#line default
+#line hidden
+#nullable disable
     }
 }
 #pragma warning restore 1591

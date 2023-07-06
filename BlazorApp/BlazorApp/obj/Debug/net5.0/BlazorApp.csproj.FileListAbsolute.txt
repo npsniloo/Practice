@@ -56,3 +56,7 @@ E:\Projects\MyGit\BlazorApp\BlazorApp\obj\Debug\net5.0\ref\BlazorApp.dll
 E:\Projects\MyGit\BlazorApp\BlazorApp\obj\Debug\net5.0\BlazorApp.pdb
 E:\Projects\MyGit\BlazorApp\BlazorApp\obj\Debug\net5.0\BlazorApp.genruntimeconfig.cache
 E:\Projects\MyGit\BlazorApp\BlazorApp\obj\Debug\net5.0\BlazorApp.csproj.CopyComplete
+E:\Projects\MyGit\BlazorApp\BlazorApp\obj\Debug\net5.0\RazorDeclaration\Pages\Album\Photos.razor.g.cs
+E:\Projects\MyGit\BlazorApp\BlazorApp\obj\Debug\net5.0\Razor\Pages\Album\Photos.razor.g.cs
+E:\Projects\MyGit\BlazorApp\BlazorApp\obj\Debug\net5.0\RazorDeclaration\Pages\Album\Photo.razor.g.cs
+E:\Projects\MyGit\BlazorApp\BlazorApp\obj\Debug\net5.0\Razor\Pages\Album\Photo.razor.g.cs

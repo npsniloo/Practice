@@ -1,0 +1,26 @@
+﻿@page "/photos"
+
+<h3>Photos</h3>
+
+
+
+@foreach (var photo in _photos)
+{
+<Photo Text=@photo />
+}
+
+
+@code {
+    private List<string> _photos;
+
+    protected override async Task OnInitializedAsync()
+    {
+        _photos = new List<string>
+{
+            "One photo",
+            "Two photos",
+            "Three photos",
+            "Four"
+        };
+    }
+}
