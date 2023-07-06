@@ -49,16 +49,23 @@ namespace Calculator
             this.btn2 = new System.Windows.Forms.Button();
             this.btn0 = new System.Windows.Forms.Button();
             this.btn00 = new System.Windows.Forms.Button();
+            this.panel2 = new System.Windows.Forms.Panel();
+            this.label1 = new System.Windows.Forms.Label();
+            this.txtHistory = new System.Windows.Forms.TextBox();
+            this.lblError = new System.Windows.Forms.Label();
+            this.panel3 = new System.Windows.Forms.Panel();
             this.panel1.SuspendLayout();
+            this.panel2.SuspendLayout();
+            this.panel3.SuspendLayout();
             this.SuspendLayout();
             // 
             // txtScreen
             // 
             this.txtScreen.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(178)));
-            this.txtScreen.Location = new System.Drawing.Point(33, 46);
+            this.txtScreen.Location = new System.Drawing.Point(6, 55);
             this.txtScreen.Multiline = true;
             this.txtScreen.Name = "txtScreen";
-            this.txtScreen.Size = new System.Drawing.Size(352, 83);
+            this.txtScreen.Size = new System.Drawing.Size(340, 85);
             this.txtScreen.TabIndex = 0;
             this.txtScreen.UseWaitCursor = true;
             // 
@@ -93,7 +100,7 @@ namespace Calculator
             this.panel1.Controls.Add(this.btn0);
             this.panel1.Controls.Add(this.btn00);
             this.panel1.Controls.Add(this.btn7);
-            this.panel1.Location = new System.Drawing.Point(33, 135);
+            this.panel1.Location = new System.Drawing.Point(18, 182);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(352, 343);
             this.panel1.TabIndex = 2;
@@ -289,17 +296,70 @@ namespace Calculator
             this.btn00.UseVisualStyleBackColor = true;
             this.btn00.Click += new System.EventHandler(this.btn00_Click);
             // 
+            // panel2
+            // 
+            this.panel2.BackColor = System.Drawing.SystemColors.ScrollBar;
+            this.panel2.Controls.Add(this.txtHistory);
+            this.panel2.Location = new System.Drawing.Point(376, 111);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(170, 411);
+            this.panel2.TabIndex = 3;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(178)));
+            this.label1.Location = new System.Drawing.Point(376, 78);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(68, 20);
+            this.label1.TabIndex = 4;
+            this.label1.Text = "History:";
+            // 
+            // txtHistory
+            // 
+            this.txtHistory.BackColor = System.Drawing.SystemColors.ScrollBar;
+            this.txtHistory.Location = new System.Drawing.Point(4, 6);
+            this.txtHistory.Multiline = true;
+            this.txtHistory.Name = "txtHistory";
+            this.txtHistory.Size = new System.Drawing.Size(163, 391);
+            this.txtHistory.TabIndex = 0;
+            // 
+            // lblError
+            // 
+            this.lblError.AutoSize = true;
+            this.lblError.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(178)));
+            this.lblError.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.lblError.Location = new System.Drawing.Point(12, 18);
+            this.lblError.Name = "lblError";
+            this.lblError.Size = new System.Drawing.Size(0, 25);
+            this.lblError.TabIndex = 5;
+            // 
+            // panel3
+            // 
+            this.panel3.Controls.Add(this.txtScreen);
+            this.panel3.Controls.Add(this.lblError);
+            this.panel3.Location = new System.Drawing.Point(12, 23);
+            this.panel3.Name = "panel3";
+            this.panel3.Size = new System.Drawing.Size(352, 144);
+            this.panel3.TabIndex = 6;
+            // 
             // Calculator
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(420, 490);
+            this.ClientSize = new System.Drawing.Size(560, 551);
+            this.Controls.Add(this.panel3);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
-            this.Controls.Add(this.txtScreen);
             this.Name = "Calculator";
             this.Text = "Calculator";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.panel1.ResumeLayout(false);
+            this.panel2.ResumeLayout(false);
+            this.panel2.PerformLayout();
+            this.panel3.ResumeLayout(false);
+            this.panel3.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -327,6 +387,11 @@ namespace Calculator
         private System.Windows.Forms.Button btn00;
         private System.Windows.Forms.Button btnEqual;
         private System.Windows.Forms.Button btnMinus;
+        private System.Windows.Forms.Panel panel2;
+        private System.Windows.Forms.TextBox txtHistory;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label lblError;
+        private System.Windows.Forms.Panel panel3;
     }
 }
 

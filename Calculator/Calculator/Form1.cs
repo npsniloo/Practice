@@ -17,7 +17,7 @@ namespace Calculator
             InitializeComponent();
         }
 
-        float FirstNum,SecondNum, Answer;
+        float FirstNum, SecondNum, Answer;
         bool FirstInput;
         Operations Opt;
 
@@ -25,38 +25,51 @@ namespace Calculator
         {
             FirstInput = true;
         }
-
-        private void btn1_Click(object sender, EventArgs e)
-        {
-            txtScreen.Text += 1;
-        }
-
         private void btnClear_Click(object sender, EventArgs e)
         {
             txtScreen.Text = "";
+            txtHistory.Text += (txtHistory.Text) != "" ? Environment.NewLine : "";
             FirstNum = 0;
             SecondNum = 0;
             FirstInput = true;
+            lblError.Text ="" ;
+        }
+
+        private string GetTextbox()
+        {
+            var parsed = float.TryParse(txtScreen.Text, out float result);
+            if (parsed && result == 0)
+            {
+                return string.Empty;
+            }
+            else
+            {
+                return txtScreen.Text;
+            }
+        }
+        private void btn1_Click(object sender, EventArgs e)
+        {
+            txtScreen.Text = GetTextbox() + 1;
         }
 
         private void btn2_Click(object sender, EventArgs e)
         {
-            txtScreen.Text += 2;
+            txtScreen.Text = GetTextbox() + 2;
         }
 
         private void btn3_Click(object sender, EventArgs e)
         {
-            txtScreen.Text += 3;
+            txtScreen.Text = GetTextbox() + 3;
         }
 
         private void btn4_Click(object sender, EventArgs e)
         {
-            txtScreen.Text += 4;
+            txtScreen.Text = GetTextbox() + 4;
         }
 
         private void btn5_Click(object sender, EventArgs e)
         {
-            txtScreen.Text += 5;
+            txtScreen.Text = GetTextbox() + 5;
         }
 
         private void btn6_Click(object sender, EventArgs e)
@@ -66,27 +79,28 @@ namespace Calculator
 
         private void btn7_Click(object sender, EventArgs e)
         {
-            txtScreen.Text += 7;
+            txtScreen.Text = GetTextbox() + 7;
         }
 
         private void btn8_Click(object sender, EventArgs e)
         {
-            txtScreen.Text += 8;
+            txtScreen.Text = GetTextbox() + 8;
         }
 
         private void btn9_Click(object sender, EventArgs e)
         {
-            txtScreen.Text += 9;
+            txtScreen.Text = GetTextbox() + 9;
         }
 
         private void btn0_Click(object sender, EventArgs e)
         {
-            txtScreen.Text += 0;
+            txtScreen.Text = GetTextbox() + 0;
         }
 
         private void btn00_Click(object sender, EventArgs e)
         {
-            txtScreen.Text += "00";
+            var txt = GetTextbox();
+            txtScreen.Text = txt + (txt == "0" || txt == "" ? "0" : "00");
         }
         private void btnPlus_Click(object sender, EventArgs e)
         {
@@ -97,9 +111,11 @@ namespace Calculator
             }
             else
             {
+
                 SetFirstNum();
             }
-           // 
+            // 
+            txtHistory.Text += txtScreen.Text + "+";
             ClearScreen();
             Opt = Operations.Add;
             FirstInput = false;
@@ -115,6 +131,7 @@ namespace Calculator
             {
                 SetFirstNum();
             }
+            txtHistory.Text += txtScreen.Text + "-";
             ClearScreen();
             Opt = Operations.Subtract;
             FirstInput = false;
@@ -131,6 +148,7 @@ namespace Calculator
             {
                 SetFirstNum();
             }
+            txtHistory.Text += txtScreen.Text + "*";
             ClearScreen();
             Opt = Operations.Multiply;
             FirstInput = false;
@@ -148,6 +166,7 @@ namespace Calculator
             {
                 SetFirstNum();
             }
+            txtHistory.Text += txtScreen.Text + "/";
             ClearScreen();
             Opt = Operations.Division;
             FirstInput = false;
@@ -155,13 +174,15 @@ namespace Calculator
 
         private void btnEqual_Click(object sender, EventArgs e)
         {
-            if (txtScreen.Text != "" )
+            if (txtScreen.Text != "")
             {
                 if (!FirstInput)
                 {
                     SecondNum = float.Parse(txtScreen.Text);
                     Calculate();
                 }
+                txtHistory.Text += txtScreen.Text + "=" + FirstNum;
+                txtHistory.Text += Environment.NewLine;
                 txtScreen.Text = FirstNum.ToString();
                 FirstNum = 0;
                 SecondNum = 0;
@@ -171,6 +192,7 @@ namespace Calculator
             }
             else
             {
+
                 txtScreen.Text = FirstNum.ToString();
                 FirstInput = true;
             }
@@ -179,17 +201,17 @@ namespace Calculator
         private void SetFirstNum()
         {
             FirstNum = float.Parse(txtScreen.Text);
-            
+
 
         }
 
         private void btnPoint_Click(object sender, EventArgs e)
         {
-            if (txtScreen.Text!="" && !txtScreen.Text.Contains("."))
+            if (txtScreen.Text != "" && !txtScreen.Text.Contains("."))
             {
                 txtScreen.Text += ".";
             }
-           
+
         }
 
         private void ClearScreen()
@@ -197,6 +219,12 @@ namespace Calculator
             txtScreen.Clear();
             txtScreen.Focus();
         }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
         private void Calculate()
         {
             switch (Opt)
@@ -211,11 +239,19 @@ namespace Calculator
                     FirstNum -= SecondNum;
                     break;
                 case Operations.Division:
+                    if (SecondNum == 0)
+                    {
+                        CallError("Cant Divide By Zero");
+                        return;
+                    }
                     FirstNum /= SecondNum;
                     break;
             }
         }
 
-        
+        private void CallError(string error)
+        {
+            lblError.Text = error;
+        }
     }
 }
