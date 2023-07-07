@@ -1,7 +1,7 @@
 ﻿
-namespace Calculator
+namespace MyCalculator
 {
-    partial class Calculator
+    partial class CalculatorClass
     {
         /// <summary>
         /// Required designer variable.
@@ -50,8 +50,8 @@ namespace Calculator
             this.btn0 = new System.Windows.Forms.Button();
             this.btn00 = new System.Windows.Forms.Button();
             this.panel2 = new System.Windows.Forms.Panel();
-            this.label1 = new System.Windows.Forms.Label();
             this.txtHistory = new System.Windows.Forms.TextBox();
+            this.label1 = new System.Windows.Forms.Label();
             this.lblError = new System.Windows.Forms.Label();
             this.panel3 = new System.Windows.Forms.Panel();
             this.panel1.SuspendLayout();
@@ -67,6 +67,7 @@ namespace Calculator
             this.txtScreen.Name = "txtScreen";
             this.txtScreen.Size = new System.Drawing.Size(340, 85);
             this.txtScreen.TabIndex = 0;
+            this.txtScreen.Text = "0";
             this.txtScreen.UseWaitCursor = true;
             // 
             // btn7
@@ -305,6 +306,15 @@ namespace Calculator
             this.panel2.Size = new System.Drawing.Size(170, 411);
             this.panel2.TabIndex = 3;
             // 
+            // txtHistory
+            // 
+            this.txtHistory.BackColor = System.Drawing.SystemColors.ScrollBar;
+            this.txtHistory.Location = new System.Drawing.Point(4, 6);
+            this.txtHistory.Multiline = true;
+            this.txtHistory.Name = "txtHistory";
+            this.txtHistory.Size = new System.Drawing.Size(163, 391);
+            this.txtHistory.TabIndex = 0;
+            // 
             // label1
             // 
             this.label1.AutoSize = true;
@@ -314,15 +324,6 @@ namespace Calculator
             this.label1.Size = new System.Drawing.Size(68, 20);
             this.label1.TabIndex = 4;
             this.label1.Text = "History:";
-            // 
-            // txtHistory
-            // 
-            this.txtHistory.BackColor = System.Drawing.SystemColors.ScrollBar;
-            this.txtHistory.Location = new System.Drawing.Point(4, 6);
-            this.txtHistory.Multiline = true;
-            this.txtHistory.Name = "txtHistory";
-            this.txtHistory.Size = new System.Drawing.Size(163, 391);
-            this.txtHistory.TabIndex = 0;
             // 
             // lblError
             // 
@@ -343,7 +344,7 @@ namespace Calculator
             this.panel3.Size = new System.Drawing.Size(352, 144);
             this.panel3.TabIndex = 6;
             // 
-            // Calculator
+            // CalculatorClass
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -352,7 +353,7 @@ namespace Calculator
             this.Controls.Add(this.label1);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
-            this.Name = "Calculator";
+            this.Name = "CalculatorClass";
             this.Text = "Calculator";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.panel1.ResumeLayout(false);

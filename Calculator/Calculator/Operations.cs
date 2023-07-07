@@ -4,13 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Calculator
+namespace MyCalculator
 {
   public enum Operations
     {
         Add=1,
         Subtract=2,
         Multiply=3,
-        Division=4
+        Division=4,
+        Equal=5
     }
 }

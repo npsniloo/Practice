@@ -1,0 +1,10 @@
+E:\Projects\MyGit\Calculator\Calculator\obj\Debug\MyCalculator.csproj.AssemblyReference.cache
+E:\Projects\MyGit\Calculator\Calculator\obj\Debug\MyCalculator.CalculatorClass.resources
+E:\Projects\MyGit\Calculator\Calculator\obj\Debug\MyCalculator.Properties.Resources.resources
+E:\Projects\MyGit\Calculator\Calculator\obj\Debug\MyCalculator.csproj.GenerateResource.cache
+E:\Projects\MyGit\Calculator\Calculator\obj\Debug\MyCalculator.csproj.CoreCompileInputs.cache
+E:\Projects\MyGit\Calculator\Calculator\bin\Debug\MyCalculator.exe.config
+E:\Projects\MyGit\Calculator\Calculator\bin\Debug\MyCalculator.exe
+E:\Projects\MyGit\Calculator\Calculator\bin\Debug\MyCalculator.pdb
+E:\Projects\MyGit\Calculator\Calculator\obj\Debug\MyCalculator.exe
+E:\Projects\MyGit\Calculator\Calculator\obj\Debug\MyCalculator.pdb

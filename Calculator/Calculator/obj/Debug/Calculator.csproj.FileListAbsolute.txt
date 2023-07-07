@@ -7,3 +7,4 @@ E:\Projects\MyGit\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateReso
 E:\Projects\MyGit\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
 E:\Projects\MyGit\Calculator\Calculator\obj\Debug\Calculator.exe
 E:\Projects\MyGit\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\Projects\MyGit\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
