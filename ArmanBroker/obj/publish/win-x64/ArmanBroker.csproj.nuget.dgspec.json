@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\ArmanBroker\\ArmanBroker\\ArmanBroker.csproj": {}
+    "D:\\Personal\\Projects\\ArmanBroker\\ArmanBroker.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\ArmanBroker\\ArmanBroker\\ArmanBroker.csproj": {
+    "D:\\Personal\\Projects\\ArmanBroker\\ArmanBroker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\ArmanBroker\\ArmanBroker\\ArmanBroker.csproj",
+        "projectUniqueName": "D:\\Personal\\Projects\\ArmanBroker\\ArmanBroker.csproj",
         "projectName": "ArmanBroker",
-        "projectPath": "E:\\Projects\\ArmanBroker\\ArmanBroker\\ArmanBroker.csproj",
-        "packagesPath": "C:\\Users\\niloo\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\ArmanBroker\\ArmanBroker\\obj\\publish\\win-x64\\",
+        "projectPath": "D:\\Personal\\Projects\\ArmanBroker\\ArmanBroker.csproj",
+        "packagesPath": "C:\\Users\\niloufar.pahlevan\\.nuget\\packages\\",
+        "outputPath": "D:\\Personal\\Projects\\ArmanBroker\\obj\\publish\\win-x64\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\niloo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\niloufar.pahlevan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -87,11 +84,12 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {

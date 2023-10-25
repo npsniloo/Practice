@@ -1,0 +1,36 @@
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\ArmanBroker.exe
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\web.config
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\Connected Services\ClubService\ConnectedService.json
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\Connected Services\DefaultService\ConnectedService.json
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\Connected Services\PlusService\ConnectedService.json
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\Connected Services\ServiceReference1\ConnectedService.json
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\Connected Services\ServiceReference2\ConnectedService.json
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\ArmanBroker.dll
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\ArmanBroker.runtimeconfig.json
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\ArmanBroker.pdb
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\dotnet-aspnet-codegenerator-design.dll
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\NuGet.Frameworks.dll
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\System.Composition.AttributedModel.dll
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\System.Composition.Convention.dll
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\System.Composition.Hosting.dll
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\System.Composition.Runtime.dll
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\System.Composition.TypedParts.dll
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\System.Net.Http.WinHttpHandler.dll
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\System.ServiceModel.Duplex.dll
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\System.ServiceModel.Http.dll
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\System.ServiceModel.NetTcp.dll
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\System.ServiceModel.Primitives.dll
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\System.ServiceModel.dll
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\System.ServiceModel.Security.dll
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\ArmanBroker.Views.dll
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\ArmanBroker.Views.pdb
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\ArmanBroker.deps.json

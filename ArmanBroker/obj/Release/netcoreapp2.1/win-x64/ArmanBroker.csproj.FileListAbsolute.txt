@@ -26,3 +26,35 @@ E:\Projects\ArmanBroker\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\ArmanBroke
 E:\Projects\ArmanBroker\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\ArmanBroker.pdb
 E:\Projects\ArmanBroker\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\ArmanBroker.genruntimeconfig.cache
 E:\Projects\ArmanBroker\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\ArmanBroker.csproj.CopyComplete
+D:\Personal\Projects\ArmanBroker\bin\Release\netcoreapp2.1\win-x64\Connected Services\ClubService\ConnectedService.json
+D:\Personal\Projects\ArmanBroker\bin\Release\netcoreapp2.1\win-x64\Connected Services\DefaultService\ConnectedService.json
+D:\Personal\Projects\ArmanBroker\bin\Release\netcoreapp2.1\win-x64\Connected Services\PlusService\ConnectedService.json
+D:\Personal\Projects\ArmanBroker\bin\Release\netcoreapp2.1\win-x64\web.config
+D:\Personal\Projects\ArmanBroker\bin\Release\netcoreapp2.1\win-x64\Connected Services\ServiceReference1\ConnectedService.json
+D:\Personal\Projects\ArmanBroker\bin\Release\netcoreapp2.1\win-x64\Connected Services\ServiceReference2\ConnectedService.json
+D:\Personal\Projects\ArmanBroker\bin\Release\netcoreapp2.1\win-x64\ArmanBroker.exe
+D:\Personal\Projects\ArmanBroker\bin\Release\netcoreapp2.1\win-x64\ArmanBroker.deps.json
+D:\Personal\Projects\ArmanBroker\bin\Release\netcoreapp2.1\win-x64\ArmanBroker.runtimeconfig.json
+D:\Personal\Projects\ArmanBroker\bin\Release\netcoreapp2.1\win-x64\ArmanBroker.runtimeconfig.dev.json
+D:\Personal\Projects\ArmanBroker\bin\Release\netcoreapp2.1\win-x64\ArmanBroker.dll
+D:\Personal\Projects\ArmanBroker\bin\Release\netcoreapp2.1\win-x64\ArmanBroker.pdb
+D:\Personal\Projects\ArmanBroker\bin\Release\netcoreapp2.1\win-x64\ArmanBroker.Views.dll
+D:\Personal\Projects\ArmanBroker\bin\Release\netcoreapp2.1\win-x64\ArmanBroker.Views.pdb
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\ArmanBroker.csproj.AssemblyReference.cache
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\ArmanBroker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\ArmanBroker.AssemblyInfoInputs.cache
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\ArmanBroker.AssemblyInfo.cs
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\ArmanBroker.csproj.CoreCompileInputs.cache
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\ArmanBroker.RazorAssemblyInfo.cache
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\ArmanBroker.RazorAssemblyInfo.cs
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\ArmanBroker.TagHelpers.input.cache
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\ArmanBroker.TagHelpers.output.cache
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\ArmanBroker.RazorCoreGenerate.cache
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\Razor\Views\Default\Index.cshtml.g.cs
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\ArmanBroker.RazorTargetAssemblyInfo.cache
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\ArmanBroker.RazorTargetAssemblyInfo.cs
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\ArmanBroker.Views.pdb
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\ArmanBroker.dll
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\ArmanBroker.pdb
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\ArmanBroker.genruntimeconfig.cache
+D:\Personal\Projects\ArmanBroker\obj\Release\netcoreapp2.1\win-x64\ArmanBroker.csproj.CopyComplete

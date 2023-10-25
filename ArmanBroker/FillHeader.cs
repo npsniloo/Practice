@@ -14,7 +14,7 @@ namespace ArmanBroker
             client.Endpoint.Binding =new BasicHttpsBinding();
             var d = client.GetEmptyHeaderAsync().GetAwaiter().GetResult();
             d.UserName = "CustomerClub";
-            d.Password = "123456cC";
+            d.Password = "123654cC@@";
 
             const string headerName = "CustomHeaderMessage";
             const string headerNamespace = "TadbirPardaz.TBS/PrincipalHeader";

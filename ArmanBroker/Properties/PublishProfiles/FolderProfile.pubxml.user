@@ -6,7 +6,8 @@ by editing this MSBuild file. In order to learn more about this please visit htt
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <_PublishTargetUrl>E:\Projects\ArmanBroker\ArmanBroker\bin\Release\netcoreapp2.1\publish\</_PublishTargetUrl>
-    <History>True|2022-03-12T21:35:47.0759098Z;False|2022-03-13T01:05:02.4888644+03:30;False|2022-03-13T01:04:24.8032199+03:30;</History>
+    <_PublishTargetUrl>D:\Personal\Projects\ArmanBroker\bin\Release\netcoreapp2.1\publish\</_PublishTargetUrl>
+    <History>True|2023-10-25T08:22:12.4331266Z;True|2022-03-13T01:05:47.0759098+03:30;False|2022-03-13T01:05:02.4888644+03:30;False|2022-03-13T01:04:24.8032199+03:30;</History>
+    <LastFailureDetails />
   </PropertyGroup>
 </Project>
