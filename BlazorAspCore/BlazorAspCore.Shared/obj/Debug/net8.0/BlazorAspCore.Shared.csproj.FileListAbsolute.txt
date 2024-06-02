@@ -1,0 +1,15 @@
+D:\Personal\Projects\BlazorAspCore\BlazorAspCore.Shared\bin\Debug\net8.0\BlazorAspCore.Shared.deps.json
+D:\Personal\Projects\BlazorAspCore\BlazorAspCore.Shared\bin\Debug\net8.0\BlazorAspCore.Shared.runtimeconfig.json
+D:\Personal\Projects\BlazorAspCore\BlazorAspCore.Shared\bin\Debug\net8.0\BlazorAspCore.Shared.dll
+D:\Personal\Projects\BlazorAspCore\BlazorAspCore.Shared\bin\Debug\net8.0\BlazorAspCore.Shared.pdb
+D:\Personal\Projects\BlazorAspCore\BlazorAspCore.Shared\obj\Debug\net8.0\BlazorAspCore.Shared.csproj.AssemblyReference.cache
+D:\Personal\Projects\BlazorAspCore\BlazorAspCore.Shared\obj\Debug\net8.0\BlazorAspCore.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Projects\BlazorAspCore\BlazorAspCore.Shared\obj\Debug\net8.0\BlazorAspCore.Shared.AssemblyInfoInputs.cache
+D:\Personal\Projects\BlazorAspCore\BlazorAspCore.Shared\obj\Debug\net8.0\BlazorAspCore.Shared.AssemblyInfo.cs
+D:\Personal\Projects\BlazorAspCore\BlazorAspCore.Shared\obj\Debug\net8.0\BlazorAspCore.Shared.csproj.CoreCompileInputs.cache
+D:\Personal\Projects\BlazorAspCore\BlazorAspCore.Shared\obj\Debug\net8.0\BlazorAspCore.Shared.sourcelink.json
+D:\Personal\Projects\BlazorAspCore\BlazorAspCore.Shared\obj\Debug\net8.0\BlazorAspCore.Shared.dll
+D:\Personal\Projects\BlazorAspCore\BlazorAspCore.Shared\obj\Debug\net8.0\refint\BlazorAspCore.Shared.dll
+D:\Personal\Projects\BlazorAspCore\BlazorAspCore.Shared\obj\Debug\net8.0\BlazorAspCore.Shared.pdb
+D:\Personal\Projects\BlazorAspCore\BlazorAspCore.Shared\obj\Debug\net8.0\BlazorAspCore.Shared.genruntimeconfig.cache
+D:\Personal\Projects\BlazorAspCore\BlazorAspCore.Shared\obj\Debug\net8.0\ref\BlazorAspCore.Shared.dll

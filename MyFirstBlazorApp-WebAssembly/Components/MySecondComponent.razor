@@ -1,0 +1,26 @@
+﻿@page "/test"
+
+
+<h3>Counter</h3>
+<p  >The counter value is @currentCount</p>
+<button class="btn btn-primary" @onclick=IncrementCount>Increment counter</button>
+
+
+@code {
+    private int currentCount = 42;
+
+    private async Task IncrementCount()
+    {
+        currentCount++;
+        if (currentCount % 2 == 0)
+            OnMultipleOfTwoAction?.Invoke(currentCount);
+
+        if (currentCount % 3 == 0)
+          await  OnMultipleOfThree.InvokeAsync(currentCount);
+    }
+
+    [Parameter]
+    public Action<int> OnMultipleOfTwoAction { get; set; }
+    [Parameter]
+    public EventCallback<int> OnMultipleOfThree { get; set; }
+}

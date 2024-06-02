@@ -1,0 +1,16 @@
+﻿<h3>@post.Title</h3>
+<p>@post.Content</p>
+
+
+@page "/blog"
+@using BlazorApp1.Data;
+
+@code {
+    private BlogPost post = new BlogPost
+        {
+            Title = "Exploring Blazor",
+            Content = "Blazor is a Framework for building interactive web UIs using C# instead of Javascript"
+
+        };
+
+}
