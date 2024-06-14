@@ -1,43 +1,43 @@
 {
   "Files": [
     {
-      "Id": "D:\\Personal\\Projects\\BlazorAspCore\\BlazorAspCore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "Id": "E:\\Projects\\Git\\Practice\\BlazorAspCore\\BlazorAspCore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "D:\\Personal\\Projects\\BlazorAspCore\\BlazorAspCore.Client\\obj\\Debug\\net8.0\\compressed\\sf256udhpg.gz",
+      "Id": "E:\\Projects\\Git\\Practice\\BlazorAspCore\\BlazorAspCore.Client\\obj\\Debug\\net8.0\\compressed\\73yndfmjzc.gz",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
     },
     {
-      "Id": "D:\\Personal\\Projects\\BlazorAspCore\\BlazorAspCore.Client\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorAspCore.Client.styles.css",
+      "Id": "E:\\Projects\\Git\\Practice\\BlazorAspCore\\BlazorAspCore.Client\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorAspCore.Client.styles.css",
       "PackagePath": "staticwebassets\\BlazorAspCore.Client.styles.css"
     },
     {
-      "Id": "D:\\Personal\\Projects\\BlazorAspCore\\BlazorAspCore.Client\\wwwroot\\css\\app.css",
+      "Id": "E:\\Projects\\Git\\Practice\\BlazorAspCore\\BlazorAspCore.Client\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "D:\\Personal\\Projects\\BlazorAspCore\\BlazorAspCore.Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "E:\\Projects\\Git\\Practice\\BlazorAspCore\\BlazorAspCore.Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\Personal\\Projects\\BlazorAspCore\\BlazorAspCore.Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "E:\\Projects\\Git\\Practice\\BlazorAspCore\\BlazorAspCore.Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\Personal\\Projects\\BlazorAspCore\\BlazorAspCore.Client\\wwwroot\\favicon.png",
+      "Id": "E:\\Projects\\Git\\Practice\\BlazorAspCore\\BlazorAspCore.Client\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "D:\\Personal\\Projects\\BlazorAspCore\\BlazorAspCore.Client\\wwwroot\\icon-192.png",
+      "Id": "E:\\Projects\\Git\\Practice\\BlazorAspCore\\BlazorAspCore.Client\\wwwroot\\icon-192.png",
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
-      "Id": "D:\\Personal\\Projects\\BlazorAspCore\\BlazorAspCore.Client\\wwwroot\\index.html",
+      "Id": "E:\\Projects\\Git\\Practice\\BlazorAspCore\\BlazorAspCore.Client\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "D:\\Personal\\Projects\\BlazorAspCore\\BlazorAspCore.Client\\wwwroot\\sample-data\\weather.json",
+      "Id": "E:\\Projects\\Git\\Practice\\BlazorAspCore\\BlazorAspCore.Client\\wwwroot\\sample-data\\weather.json",
       "PackagePath": "staticwebassets\\sample-data\\weather.json"
     },
     {
