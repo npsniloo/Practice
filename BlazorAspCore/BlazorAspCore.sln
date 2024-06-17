@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35004.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorAspCore.Client", "BlazorAspCore.Client\BlazorAspCore.Client.csproj", "{D01DFF10-5BFB-4F0E-BAEE-8338708A6365}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorAspCore.Shared", "BlazorAspCore.Shared\BlazorAspCore.Shared.csproj", "{CD865000-1092-4046-AA00-D78A079317B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAspCore.Server", "BlazorAspCore.Server\BlazorAspCore.Server.csproj", "{75875DB9-66C6-4C05-B4F5-8796F9FAD303}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorAspCore.Server", "BlazorAspCore.Server\BlazorAspCore.Server.csproj", "{75875DB9-66C6-4C05-B4F5-8796F9FAD303}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAspCore.Api", "BlazorAspCore.Api\BlazorAspCore.Api.csproj", "{512D46C9-2889-48E2-93B9-DB6AC75266BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorAspCore.Api", "BlazorAspCore.Api\BlazorAspCore.Api.csproj", "{512D46C9-2889-48E2-93B9-DB6AC75266BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAspCore.Client", "BlazorAspCore.Client\BlazorAspCore.Client\BlazorAspCore.Client.csproj", "{8A628F38-A483-471E-8FAE-0FC3E0589470}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAspCore.Client.Client", "BlazorAspCore.Client\BlazorAspCore.Client.Client\BlazorAspCore.Client.Client.csproj", "{839E0BCD-F303-47CF-8FFC-DEEAF670ADEC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +19,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D01DFF10-5BFB-4F0E-BAEE-8338708A6365}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D01DFF10-5BFB-4F0E-BAEE-8338708A6365}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D01DFF10-5BFB-4F0E-BAEE-8338708A6365}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D01DFF10-5BFB-4F0E-BAEE-8338708A6365}.Release|Any CPU.Build.0 = Release|Any CPU
 		{CD865000-1092-4046-AA00-D78A079317B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{CD865000-1092-4046-AA00-D78A079317B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD865000-1092-4046-AA00-D78A079317B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -33,6 +31,14 @@ Global
 		{512D46C9-2889-48E2-93B9-DB6AC75266BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{512D46C9-2889-48E2-93B9-DB6AC75266BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{512D46C9-2889-48E2-93B9-DB6AC75266BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A628F38-A483-471E-8FAE-0FC3E0589470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A628F38-A483-471E-8FAE-0FC3E0589470}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A628F38-A483-471E-8FAE-0FC3E0589470}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A628F38-A483-471E-8FAE-0FC3E0589470}.Release|Any CPU.Build.0 = Release|Any CPU
+		{839E0BCD-F303-47CF-8FFC-DEEAF670ADEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{839E0BCD-F303-47CF-8FFC-DEEAF670ADEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{839E0BCD-F303-47CF-8FFC-DEEAF670ADEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{839E0BCD-F303-47CF-8FFC-DEEAF670ADEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

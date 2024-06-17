@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorAspCore.Shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41dae76c9888d4a6c07a927b5cddb83eb8918b84")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64c8cc516b0498ea688b4ecc7fe2232ba0069b6d")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorAspCore.Shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorAspCore.Shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

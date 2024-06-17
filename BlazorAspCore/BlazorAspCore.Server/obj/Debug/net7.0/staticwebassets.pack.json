@@ -5,6 +5,106 @@
       "PackagePath": "staticwebassets\\BlazorAspCore.Server.bundle.scp.css"
     },
     {
+      "Id": "E:\\Projects\\Git\\Practice\\BlazorAspCore\\BlazorAspCore.Server\\wwwroot\\Images\\AccessPoint.png",
+      "PackagePath": "staticwebassets\\Images\\AccessPoint.png"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\Practice\\BlazorAspCore\\BlazorAspCore.Server\\wwwroot\\Images\\C1.png",
+      "PackagePath": "staticwebassets\\Images\\C1.png"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\Practice\\BlazorAspCore\\BlazorAspCore.Server\\wwwroot\\Images\\C2.png",
+      "PackagePath": "staticwebassets\\Images\\C2.png"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\Practice\\BlazorAspCore\\BlazorAspCore.Server\\wwwroot\\Images\\CD.png",
+      "PackagePath": "staticwebassets\\Images\\CD.png"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\Practice\\BlazorAspCore\\BlazorAspCore.Server\\wwwroot\\Images\\DVD.png",
+      "PackagePath": "staticwebassets\\Images\\DVD.png"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\Practice\\BlazorAspCore\\BlazorAspCore.Server\\wwwroot\\Images\\DVDPlayer.png",
+      "PackagePath": "staticwebassets\\Images\\DVDPlayer.png"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\Practice\\BlazorAspCore\\BlazorAspCore.Server\\wwwroot\\Images\\DesktopComputer.png",
+      "PackagePath": "staticwebassets\\Images\\DesktopComputer.png"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\Practice\\BlazorAspCore\\BlazorAspCore.Server\\wwwroot\\Images\\Down.png",
+      "PackagePath": "staticwebassets\\Images\\Down.png"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\Practice\\BlazorAspCore\\BlazorAspCore.Server\\wwwroot\\Images\\Floppy.png",
+      "PackagePath": "staticwebassets\\Images\\Floppy.png"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\Practice\\BlazorAspCore\\BlazorAspCore.Server\\wwwroot\\Images\\HDD.png",
+      "PackagePath": "staticwebassets\\Images\\HDD.png"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\Practice\\BlazorAspCore\\BlazorAspCore.Server\\wwwroot\\Images\\MobilePhone.png",
+      "PackagePath": "staticwebassets\\Images\\MobilePhone.png"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\Practice\\BlazorAspCore\\BlazorAspCore.Server\\wwwroot\\Images\\Mouse.png",
+      "PackagePath": "staticwebassets\\Images\\Mouse.png"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\Practice\\BlazorAspCore\\BlazorAspCore.Server\\wwwroot\\Images\\MultimediaPlayer.png",
+      "PackagePath": "staticwebassets\\Images\\MultimediaPlayer.png"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\Practice\\BlazorAspCore\\BlazorAspCore.Server\\wwwroot\\Images\\Notebook.png",
+      "PackagePath": "staticwebassets\\Images\\Notebook.png"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\Practice\\BlazorAspCore\\BlazorAspCore.Server\\wwwroot\\Images\\Printer.png",
+      "PackagePath": "staticwebassets\\Images\\Printer.png"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\Practice\\BlazorAspCore\\BlazorAspCore.Server\\wwwroot\\Images\\RAM.png",
+      "PackagePath": "staticwebassets\\Images\\RAM.png"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\Practice\\BlazorAspCore\\BlazorAspCore.Server\\wwwroot\\Images\\SmartPhone.png",
+      "PackagePath": "staticwebassets\\Images\\SmartPhone.png"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\Practice\\BlazorAspCore\\BlazorAspCore.Server\\wwwroot\\Images\\UP.png",
+      "PackagePath": "staticwebassets\\Images\\UP.png"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\Practice\\BlazorAspCore\\BlazorAspCore.Server\\wwwroot\\Images\\USB.png",
+      "PackagePath": "staticwebassets\\Images\\USB.png"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\Practice\\BlazorAspCore\\BlazorAspCore.Server\\wwwroot\\Images\\delete.png",
+      "PackagePath": "staticwebassets\\Images\\delete.png"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\Practice\\BlazorAspCore\\BlazorAspCore.Server\\wwwroot\\Images\\delete1.png",
+      "PackagePath": "staticwebassets\\Images\\delete1.png"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\Practice\\BlazorAspCore\\BlazorAspCore.Server\\wwwroot\\Images\\filter.png",
+      "PackagePath": "staticwebassets\\Images\\filter.png"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\Practice\\BlazorAspCore\\BlazorAspCore.Server\\wwwroot\\Images\\shopping_cart.png",
+      "PackagePath": "staticwebassets\\Images\\shopping_cart.png"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\Practice\\BlazorAspCore\\BlazorAspCore.Server\\wwwroot\\Images\\shopping_cart64.png",
+      "PackagePath": "staticwebassets\\Images\\shopping_cart64.png"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\Practice\\BlazorAspCore\\BlazorAspCore.Server\\wwwroot\\Images\\tick.png",
+      "PackagePath": "staticwebassets\\Images\\tick.png"
+    },
+    {
       "Id": "E:\\Projects\\Git\\Practice\\BlazorAspCore\\BlazorAspCore.Server\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
